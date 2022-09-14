@@ -9,6 +9,7 @@ Doesn't do much, but it looks nice. Contains a glance view.
 
 [GitHub - danielsiwiec/timebomb: Timebomb game for garmin](https://github.com/danielsiwiec/timebomb). Looks like a game. Had not run it yet. The code seems clean. There is even a model passd to the delegate. Don't expect sofisticated mechanics/techniques, though.
 
+[andryuha49/GarminTrexGame](https://github.com/andryuha49/GarminTrexGame) Quite fresh (2020), good readme. Game from google chrome. (A bit slow, judging from the demo video. Not sure if coding/techniques are good.)
 
 ## example/project collections
 
