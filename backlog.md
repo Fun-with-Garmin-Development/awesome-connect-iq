@@ -11,6 +11,12 @@ Doesn't do much, but it looks nice. Contains a glance view.
 
 [andryuha49/GarminTrexGame](https://github.com/andryuha49/GarminTrexGame) Quite fresh (2020), good readme. Game from google chrome. (A bit slow, judging from the demo video. Not sure if coding/techniques are good.)
 
+[https://github.com/hansiglaser/ConnectIQ](https://github.com/hansiglaser/ConnectIQ) Collection of Garmin Connect IQ apps. SimpleWaF (watch face) is a very simple watch face, just a finger exercise. ShowAllInfos (widget) retrieves all available information (e.g., screen size, heart rate, ...) and displays it. SensorViz (app) interactively visualizes the readings of the accelerometer and the magnetometer in 3D.
+
+[Contrast Shower](https://github.com/aiMonster/Garmin-Contrast-Shower)
+https://apps.garmin.com/en-US/apps/9499ec2c-d424-4135-a62d-130956bc1a6f
+A watch application that helps you to take a contrast shower every day and keep your health in great shape. It will notify you with vibration on every cycle end, so you don't miss to switch the water. The application allows you to configure the number of cycles and their duration. Also, it allows you to record activity, so you could track your progress.
+
 ## example/project collections
 
 Likenttt/garmin-connectiq-samples-brief-explanations: Garmin development sample programs, a collection of topical problems. Samples collection for Garmin connect IQ development.: https://github.com/Likenttt/garmin-connectiq-samples-brief-explanations
@@ -96,4 +102,20 @@ ToryStark/connect-iq: https://github.com/ToryStark/connect-iq
 
 vovan-/swimmer-datafiled-garmin: Swimmer datafiled for Garmin Connect IQ store.: https://github.com/vovan-/swimmer-datafiled-garmin
 
+## Tutorials
 
+### Connect IQ - Getting Started Pt. 1: Setup
+https://www.youtube.com/watch?v=2CJiVXboLws&t=1022s
+This tutorial (2019) walks new users through getting set up in the Eclipse IDE, installing the Connect IQ Plugin, and building your first watchface.
+
+### Connect IQ - Getting Started Pt. 2: Hello World
+https://www.youtube.com/watch?v=RVLnrrBM4fY&t=229s
+This brief tutorial (2019) introduces developers to monkey c with a very simple "Hello World" program that prints to the console and displays on a watchface in place of the time. (Uses Eclipse tooling.)
+
+### Connect IQ - Uploading to the App Store
+https://www.youtube.com/watch?v=uK9ccEroFMo&t=5s
+This youtube video (2019) shows how to upload you app to the Conncect IQ Store. (Uses Eclipse tooling.)
+
+### How to create a Garmin Watch application - Part 1
+https://www.youtube.com/watch?v=_sHBqQKpIZg
+This tutorial (2022), shows how to configure Monkey C development environment based on Visual Studio Code on Mac OS X.

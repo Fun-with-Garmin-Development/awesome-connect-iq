@@ -1,16 +1,16 @@
 ---
 name: PR -- approve/reject project (app, watch face, example) for the awesome list
 about: Provide information about a project to be added to awesome-connect-iq list or a project that shouldn't be included.
-title: Approve/reject
+title: Approve/reject [[name/title]]
 labels: project proposal
 assignees: ''
 
 ---
 
-## Is this PR for including a project to the list, or rejecting the project?
+## Is this PR for including a project in the list, or rejecting the project?
 
 - [ ] Include the project in awesome list
-- [ ] Reject the project
+- [ ] Reject
 
 _Include some summary, why the project should be accepted/rejected._
 
