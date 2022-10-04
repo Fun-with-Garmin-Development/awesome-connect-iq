@@ -1,4 +1,6 @@
 
+[Connect IQ Apps with Source Code](https://starttorun.info/connect-iq-apps-with-source-code/) May be a little old, but it is still a great source/list of apps and tutorials. A bit 
+
 [OpenWeatherMapWidget](https://github.com/desyat/OpenWeatherMapWidget) App store: https://apps.garmin.com/en-US/apps/1f3f2d10-ac05-4a9b-a8fa-bdeac8775793 ; 
 This is a good example of how background processes work. Feel free to give me suggestions on improving the code.
 There is also an example of Glance View for widgets.
@@ -25,6 +27,18 @@ Not sure if there is yet anything to learn from (as I'm still very confused myse
 It's a small app that remembers the status of the battery, shows a graph and estimates how long it might last if the discharge is similar like in the past x minutes/hours
 
 [OPN-MonkeyC](https://gitlab.com/waterkip/opn-monkeyc) - was mantioned in develepers forum, but it is not clear what it is
+
+[Fortune Quote](https://gitlab.com/harryonline/fortune-quote)
+Fortune Quote is another one with source code. I mainly created this to share my code to wrap longer text nicely on different screen shapes.
+Widget at https://apps.garmin.com/en-US/apps/2731e276-02e2-45ff-a149-6c86f93ebf51
+Code at https://gitlab.com/harryonline/fortune-quote/tree/master
+Forum topic at https://forums.garmin.com/showthread.php?376269-Fortune-Quote-wrap-text-in-any-device
+
+[SunCalc Widget](https://github.com/haraldh/SunCalc)
+The SunCalc widget calculates all useful times for the sun, like sunset, sunrise, dusk, dawn, blue hour, golden hour.
+The widget is available in the Garmin Connect IQ store: https://apps.garmin.com/en-US/apps/87b86650-a443-43ea-9dcb-29e4051a5722
+
+[](https://github.com/OliverHannover/Aviatorlike) Aviator like watchface with some color options and many other settings. 
 
 [Atom Fast Dosimeter Application](https://github.com/newenclave/AtomAppGN)
 The application doesn't turn your watch into a dosimeter. It uses an Atom Fast device to read and show the data.
